@@ -196,7 +196,8 @@ The following are the evaluation results recorded during the project analysis. L
 
 ## Author
 
-**Samarth Boraste**  
+## **Samarth Boraste**  
+
 ## Connect with Me
 
 <p align="center">
